@@ -15,8 +15,4 @@ if final_price == original_price:
   print("No discount applied. Final price:", final_price)
 else:
   print("Final price after applying a", discount_percent, "% discount:", final_price)
-#     except ValueError:
-#         print("Invalid input. Please enter valid numbers.")
-
-# if __name__ == "__main__":
-#     main()
+    
